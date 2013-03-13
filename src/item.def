@@ -1,0 +1,5 @@
+ITEM_DEF(int, BG_W, 882)
+ITEM_DEF(int, BG_H, 725)
+ITEM_DEF(string, NAME, "vinjn")
+ITEM_DEF(float, velocity, 3.0f)
+
